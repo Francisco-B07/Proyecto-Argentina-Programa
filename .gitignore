@@ -1,0 +1,4 @@
+.settings
+target
+.dbeaver
+src/main/java/model/app.java
